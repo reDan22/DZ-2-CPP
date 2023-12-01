@@ -1,0 +1,8 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\MSI GL66\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(23,8): warning C4273: 'hypot': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(514,47):
+  see previous definition of 'hypot'
+  
+C:\Users\MSI GL66\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(449,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\MSI GL66\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.lib and object C:\Users\MSI GL66\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exp
+  ConsoleApplication4.vcxproj -> C:\Users\MSI GL66\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
